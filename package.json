@@ -1,0 +1,17 @@
+{
+	"name": "fancy-cellar",
+	"description": "Fancy Application",
+	"version": "0.0.0",
+	"private": true,
+	"main" : "server.js",
+	"repository" : {
+		"type" : "git",
+		"url" : "git@github.com:Fancypad/Fancypad-Server.git"
+	},
+	"bugs": {
+	    "url": "https://github.com/Fancypad/Fancypad-Server/issues"
+	},
+	"dependencies": {
+		"express": "3.x"
+	}
+}
